@@ -1,5 +1,0 @@
-F:\Projects\E-Deklaracja\GPS.Components.Cryptography\bin\x86\Debug\GPS.Components.Cryptography.dll
-F:\Projects\E-Deklaracja\GPS.Components.Cryptography\bin\x86\Debug\GPS.Components.Cryptography.pdb
-F:\Projects\E-Deklaracja\GPS.Components.Cryptography\obj\x86\Debug\GPS.Components.Cryptography.csprojResolveAssemblyReference.cache
-F:\Projects\E-Deklaracja\GPS.Components.Cryptography\obj\x86\Debug\GPS.Components.Cryptography.dll
-F:\Projects\E-Deklaracja\GPS.Components.Cryptography\obj\x86\Debug\GPS.Components.Cryptography.pdb

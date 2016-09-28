@@ -1,5 +1,0 @@
-F:\Projects\E-Deklaracja WPF\GPS.Components.Cryptography\bin\Debug\GPS.Components.Cryptography.dll
-F:\Projects\E-Deklaracja WPF\GPS.Components.Cryptography\bin\Debug\GPS.Components.Cryptography.pdb
-F:\Projects\E-Deklaracja WPF\GPS.Components.Cryptography\obj\Debug\GPS.Components.Cryptography.dll
-F:\Projects\E-Deklaracja WPF\GPS.Components.Cryptography\obj\Debug\GPS.Components.Cryptography.pdb
-F:\Projects\E-Deklaracja WPF\GPS.Components.Cryptography\obj\Debug\GPS.Components.Cryptography.csprojResolveAssemblyReference.cache
