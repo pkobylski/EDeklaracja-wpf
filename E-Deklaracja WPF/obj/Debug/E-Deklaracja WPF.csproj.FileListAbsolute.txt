@@ -1,0 +1,38 @@
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\E-Deklaracja WPF.exe.config
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF.csprojResolveAssemblyReference.cache
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\Controls\SendControl.g.cs
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\MainWindow.g.cs
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\App.g.cs
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF_MarkupCompile.cache
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF_MarkupCompile.lref
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\App.baml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\MainWindow.baml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF.exe
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\E-Deklaracja WPF.exe
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\E-Deklaracja WPF.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\App.Core.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\FirstFloor.ModernUI.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\System.Windows.Interactivity.dll
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\App.Core.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\FirstFloor.ModernUI.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\FirstFloor.ModernUI.xml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GPS.EDeklaracje.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.xml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\Controls\SendControl.baml
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF.g.resources
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E_Deklaracja_WPF.Properties.Resources.resources
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\E-Deklaracja WPF.csproj.GenerateResource.Cache
+F:\Projects\E-Deklaracja WPF\E-Deklaracja WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs

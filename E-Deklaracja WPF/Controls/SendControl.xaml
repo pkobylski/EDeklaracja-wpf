@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="E_Deklaracja_WPF.Controls.SendControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             xmlns:viewModel="clr-namespace:E_Deklaracja_WPF.ViewModel"
+             xmlns:converters="clr-namespace:Test;assembly=App.Core"
+             mc:Ignorable="d"             
+             d:DesignHeight="300" d:DesignWidth="1000"
+             DataContext="{Binding Source={StaticResource Locator}, Path=SendControl}">
+    <!--<UserControl.DataContext>
+        <viewModel:SendControlViewModel></viewModel:SendControlViewModel>
+    </UserControl.DataContext>-->
+    <ScrollViewer>
+        <ScrollViewer.Resources>
+            <BooleanToVisibilityConverter x:Key="booleanToVisibilityConverter"></BooleanToVisibilityConverter>
+            <converters:EnumBooleanConverter x:Key="enumBooleanConverter"></converters:EnumBooleanConverter>
+        </ScrollViewer.Resources>
+        <StackPanel x:Name="Form" Orientation="Vertical">
+            <StackPanel.Resources>
+                <Style TargetType="StackPanel">
+                    <Setter Property="Orientation" Value="Horizontal" />
+                    <Setter Property="Margin" Value="0,0,0,4" />
+                </Style>
+                <Style TargetType="Label" BasedOn="{StaticResource {x:Type Label}}">
+                    <Setter Property="Width" Value="100" />
+                    <Setter Property="VerticalAlignment" Value="Center" />
+                </Style>
+                <Style TargetType="CheckBox" BasedOn="{StaticResource {x:Type CheckBox}}">
+                    <Setter Property="Padding" Value="0,3" />
+                </Style>
+                <Style TargetType="RadioButton" BasedOn="{StaticResource {x:Type RadioButton}}">
+                    <Setter Property="Padding" Value="0,3" />
+                </Style>
+            </StackPanel.Resources>
+            <StackPanel>
+                <Label Content="Plik e-deklaracji:"/>
+                <TextBox Margin="50,0,0,0" x:Name="TextFirstName" Width="750" Text="{Binding EdekPath, Mode=TwoWay, ValidatesOnDataErrors=True}" />
+            </StackPanel>
+            <Button Content="Wczytaj plik..." Margin="789,0,0,0" HorizontalAlignment="Left" Command="{Binding OpenFileCommand}" />
+            <StackPanel Margin="0,5,0,5" Visibility="Collapsed">
+                <Label Width="150" Content="Wysyłane dane:"/>                
+                <TextBox TextWrapping="Wrap" Width="750" Text=""></TextBox>
+            </StackPanel>
+            <StackPanel>
+                <Label Width="150" Content="Typ komunikacji:"/>
+                <RadioButton Cursor="Hand" Content="Oficjalny" IsChecked="{Binding TypKomunikacjiMF, Converter={StaticResource enumBooleanConverter}, ConverterParameter='Oficjalny'}"  Margin="0,0,0,0" />
+                <RadioButton Cursor="Hand" Content="Testowy" IsChecked="{Binding TypKomunikacjiMF, Converter={StaticResource enumBooleanConverter}, ConverterParameter='Testowy'}" Margin="8,0,0,0" />
+            </StackPanel>
+            <StackPanel>
+                <Label Width="150" Content="Certyfikat:" Target="{Binding ElementName=ComboState}"/>
+                <ComboBox x:Name="ComboState" Width="750" ItemsSource="{Binding Certificates}" DisplayMemberPath="Subject"></ComboBox>
+            </StackPanel>
+            <StackPanel>
+                <Button IsEnabled="{Binding SendButtonEnabled}" Content="{Binding SendButtonCaption}" Margin="150,0,0,0" HorizontalAlignment="Left" Command="{Binding SendEdekCommand}" />
+                <ProgressBar Visibility="{Binding ProgressBarVisible, Converter={StaticResource booleanToVisibilityConverter}}" Minimum="0" Maximum="1" Height="16" Width="580" IsIndeterminate="True" Margin="0,0,0,0" />
+            </StackPanel>           
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

@@ -1,0 +1,5 @@
+F:\Projects\E-Deklaracja\GPS.EDeklaracje\bin\x86\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja\GPS.EDeklaracje\bin\x86\Debug\GPS.EDeklaracje.pdb
+F:\Projects\E-Deklaracja\GPS.EDeklaracje\obj\x86\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja\GPS.EDeklaracje\obj\x86\Debug\GPS.EDeklaracje.pdb
+F:\Projects\E-Deklaracja\GPS.EDeklaracje\obj\x86\Debug\GPS.EDeklaracje.csprojResolveAssemblyReference.cache

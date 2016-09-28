@@ -1,0 +1,5 @@
+F:\Projects\E-Deklaracja WPF\GPS.EDeklaracje\bin\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja WPF\GPS.EDeklaracje\bin\Debug\GPS.EDeklaracje.pdb
+F:\Projects\E-Deklaracja WPF\GPS.EDeklaracje\obj\Debug\GPS.EDeklaracje.csprojResolveAssemblyReference.cache
+F:\Projects\E-Deklaracja WPF\GPS.EDeklaracje\obj\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja WPF\GPS.EDeklaracje\obj\Debug\GPS.EDeklaracje.pdb
